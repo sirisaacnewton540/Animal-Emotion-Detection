@@ -24,9 +24,9 @@ Animal Emotion Detection System is designed to classify animal emotions into thr
 
 The dataset is compressed into zip file, so it is needed to be unzipped before use.
 It is organized into three main directories:
-- `train`: Contains 250 images per emotion category.
-- `valid`: Contains 9 images per emotion category.
-- `test`: Contains 10 images per emotion category.
+- `train`: Contains 750 images (250 images per emotion category).
+- `valid`: Contains 27 images (9 images per emotion category.
+- `test`: Contains 30 images (10 images per emotion category.
 
 Each image is of size 224x224 pixels in JPG format.
 
